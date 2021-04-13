@@ -11,7 +11,7 @@
     "react-visjs-timeline": "^1.6.0",
     "tippy.js": "^6.2.5",
     "vis-data": "^6.6.1",
-    "vis-timeline": "^7.3.7",
+    "vis-timeline": "^7.4.4",
     "vis-util": "^4.3.2"
   },
   "devDependencies": {
